@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+img {
+    width: 250px;
+}
+
+h3{
+    font-family: fantasy;
+    color: rgb(81, 7, 155);
+    margin-left: 35%;
+}
